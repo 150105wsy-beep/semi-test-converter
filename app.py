@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # 标题
-st.title("📊 TCAD转移特性曲线测试数据csv转换mea工具")
+st.title("📊 TCAD转移特性曲线测试数据csv转换txt/mea工具")
 st.markdown("---")
 
 # 侧边栏配置
@@ -454,5 +454,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
